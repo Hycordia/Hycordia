@@ -1,2 +1,5 @@
 # Hycordia
-a next-gen Minecraft server which breaks the habit and puts the players first!
+
+## Coming Soon!
+
+### Join Us @ [discord.hycordia.com](https://discord.hycordia.com)
